@@ -1,3 +1,7 @@
 # hello--world
 
-Hi, my name is Ayush Kaushik. This is my first project. I hope I make more projects and showcase them here.
+Hi, my name is Ayush Kaushik.<br>
+I am a software engineering student.<br>
+The following git-hub repositories are here to showcase my projects.<br>
+
+** Thanks for visiting **
